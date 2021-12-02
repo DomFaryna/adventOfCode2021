@@ -1,4 +1,4 @@
-module github.com/dfaryna/adventOfCode2021
+module github.com/DomFaryna/adventOfCode2021
 
 go 1.17
 

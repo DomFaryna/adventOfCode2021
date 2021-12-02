@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dfaryna/adventOfCode2021/tools"
+	"github.com/DomFaryna/adventOfCode2021/tools"
 )
 
 func TestPart1(t *testing.T) {
