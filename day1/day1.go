@@ -2,16 +2,11 @@ package day1
 
 import (
 	"bufio"
-	"fmt"
 	"strconv"
 )
 
 func day1(scanner *bufio.Scanner) int {
 	count := 0
-	fmt.Printf("DOMDOMDOM\n")
-	//for scanner.Scan() {
-	//	fmt.Printf("Got some data %s\n", scanner.Text())
-	//}
 
 	scanner.Scan()
 	prev, err := strconv.Atoi(scanner.Text())
